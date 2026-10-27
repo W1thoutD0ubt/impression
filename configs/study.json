@@ -1,0 +1,9 @@
+{
+  "study_id": "health-checkup-impression-pilot",
+  "prompt_file": "../prompts/impression_v1.txt",
+  "model": null,
+  "temperature": null,
+  "max_completion_tokens": 4096,
+  "seed": 2026,
+  "washout_days": 28
+}

@@ -1,0 +1,3 @@
+{"case_id":"EVAL001","basis":"expert_consensus","reference_impression":"肺及胸腔未见所述明显异常。","normal":true,"required_items":[{"item_id":"R1","text":"正确表达当前所见范围内未见明显异常，不新增疾病。","critical":false}]}
+{"case_id":"EVAL002","basis":"expert_consensus","reference_impression":"右肺上叶小实性结节，性质不能仅凭当前资料确定。","normal":false,"required_items":[{"item_id":"R1","text":"右肺上叶约6 mm实性结节。","critical":true},{"item_id":"R2","text":"保留病因不确定性，不凭空认定良恶性或声称较前稳定。","critical":false}]}
+{"case_id":"EVAL003","basis":"expert_consensus","reference_impression":"左肺下叶条索影；主动脉壁钙化。","normal":false,"required_items":[{"item_id":"R1","text":"左肺下叶条索性异常。","critical":false},{"item_id":"R2","text":"主动脉壁钙化。","critical":false}]}
